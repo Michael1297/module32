@@ -1,0 +1,27 @@
+{
+  "name": "Avengers: Endgame",
+  "Country": "United States",
+  "Release date": "29 April 2019",
+  "Production companies": "Marvel Studios",
+  "Writers": {
+    "1": "Christopher Markus",
+    "2": "Stephen McFeely"
+  },
+  "Directors": {
+    "1": "Anthony Russo",
+    "2":  "Joe Russo"
+  },
+  "Producer": {
+    "1": "Kevin Feige",
+    "2": "Victoria Alonso",
+    "3": "Mitchell Bell"
+  },
+  "Cast": {
+    "Tony Stark, Iron Man": "Robert Downey Jr.",
+    "Steve Rogers, Captain America": "Chris Evans",
+    "Bruce Banner, Hulk": "Mark Ruffalo",
+    "Thor": "Chris Hemsworth",
+    "Natasha Romanoff, Black Widow": "Scarlett Johansson",
+    "Clint Barton, Hawkeye": "Jeremy Renner"
+  }
+}

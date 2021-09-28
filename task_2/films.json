@@ -1,0 +1,132 @@
+{
+  "Avengers: Endgame": {
+    "Country": "United States",
+    "Release date": "29 April 2019",
+    "Production companies": "Marvel Studios",
+    "Writers": {
+      "1": "Christopher Markus",
+      "2": "Stephen McFeely"
+    },
+    "Directors": {
+      "1": "Anthony Russo",
+      "2":  "Joe Russo"
+    },
+    "Producer": {
+      "1": "Kevin Feige",
+      "2": "Victoria Alonso",
+      "3": "Mitchell Bell"
+    },
+    "Cast": {
+      "Tony Stark, Iron Man": "Robert Downey Jr.",
+      "Steve Rogers, Captain America": "Chris Evans",
+      "Bruce Banner, Hulk": "Mark Ruffalo",
+      "Thor": "Chris Hemsworth",
+      "Natasha Romanoff, Black Widow": "Scarlett Johansson",
+      "Clint Barton, Hawkeye": "Jeremy Renner"
+    }
+  },
+  "Free Guy": {
+    "Country": {
+      "1": "United States",
+      "2": "Canada"
+    },
+    "Release date": "12 August 2021",
+    "Production companies": "Maximum Effort",
+    "Writers": {
+      "1": "Matt Lieberman",
+      "2": "Zak Penn"
+    },
+    "Directors": "Shawn Levy",
+    "Producer": {
+      "1": "Ryan Reynolds",
+      "2": "Shawn Levy",
+      "3": "Sarah Schechter",
+      "4": "Greg Berlanti",
+      "5": "Adam Kolbrenner"
+    },
+    "Cast": {
+      "Guy": "Ryan Reynolds",
+      "Millie, Molotov Girl": "Jodie Comer",
+      "Keys": "Joe Keery",
+      "Buddy": "Lil Rel Howery",
+      "Mouser": "Utkarsh Ambudkar",
+      "Antoine": "Taika Waititi"
+    }
+  },
+  "Logan": {
+    "Country": "United States",
+    "Release date": "3 Mar 2017",
+    "Production companies": "Marvel Entertainment",
+    "Writers": {
+      "1": "James Mangold",
+      "2": "Michael Green",
+      "3": "Scott Frank"
+    },
+    "Directors": "James Mangold",
+    "Producer": {
+      "1": "Hutch Parker",
+      "2": "Simon Kinberg",
+      "3": "Lauren Shuler Donner"
+    },
+    "Cast": {
+      "Logan": "Hugh Jackman",
+      "Charles": "Patrick Stewart",
+      "Laura": "Dafne Keen",
+      "Dr. Rice": "Richard E. Grant",
+      "Maria": "Doris Morgado",
+      "Pierce": "Boyd Holbrook"
+    }
+  },
+  "Night at the Museum: Battle of the Smithsonian": {
+    "Country": {
+      "1": "United States",
+      "2": "Canada"
+    },
+    "Release date": "8 January 2015",
+    "Production companies": {
+      "1": "Twentieth Century Fox",
+      "2": "21 Laps Entertainment",
+      "3": "1492 Pictures"
+    },
+    "Writers": "Blake Hutchins",
+    "Directors": "Douglas Carrigan",
+    "Producer": {
+      "1": "Jeremy Mahler",
+      "2": "Joe McHale",
+      "3": "Connor Salisbury"
+    },
+    "Cast": {
+      "Larry Daley": "Ben Stiller",
+      "Teddy Roosevelt": "Robin Williams",
+      "Amelia Earhart": "Amy Adams",
+      "Jedediah": "Owen Wilson",
+      "Kahmunrah": "Hank Azaria",
+      "Ivan the Terrible": "Christopher Guest"
+    }
+  },
+  "Doctor Strange": {
+    "Country": "United States",
+    "Release date": "31 October 2016",
+    "Production companies": {
+      "1": "Marvel Studios",
+      "2": "Walt Disney Pictures"
+    },
+    "Writers": {
+      "1": "Jon Spaihts",
+      "2": "Scott Derrickson",
+      "3": "C. Robert Cargill",
+      "4": "Stan Lee",
+      "5": "Steve Ditko"
+    },
+    "Directors": "Scott Derrickson",
+    "Producer": "Kevin Feige",
+    "Cast": {
+      "Dr. Stephen Vincent Strange": "Benedict Cumberbatch",
+      "Baron Karl Mordo": "Chiwetel Ejiofor",
+      "Christine Palmer": "Rachel McAdams",
+      "Wong": "Benedict Wong",
+      "Kaecilius": "Mads Mikkelsen",
+      "The Ancient One": "Tilda Swinton"
+    }
+  }
+}
